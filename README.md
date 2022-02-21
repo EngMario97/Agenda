@@ -8,7 +8,7 @@ Agenda de contatos desenvolvido durante o Curso de Python 3 do Básico Ao Avanç
 Instale Django, Pillow e PyMySQL com o pip
 
 ```bash
-  pip install django pillow PyMySQL
+  pip install django pillow pymysql
 ```
 
 Rode as migrações
