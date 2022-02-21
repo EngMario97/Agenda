@@ -1,6 +1,6 @@
 # Agenda
 
-Agenda de contatos desenvolvido durante o curso Curso de Python 3 do Básico Ao Avançado (com projetos reais) presente na Udemy.
+Agenda de contatos desenvolvido durante o Curso de Python 3 do Básico Ao Avançado (com projetos reais) presente na Udemy, utilizando o framework Django.
 
 
 ## Instalação
