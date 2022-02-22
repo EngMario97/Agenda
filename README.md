@@ -12,7 +12,7 @@ Instale Django, Pillow e MySqlClient com o pip
 ```
 Se ocorrer erro na instalação do MySqlClient verificar com instalar nesse link: https://pypi.org/project/mysqlclient/
 
-Rode as migrações
+###Rode as migrações
 
 ```bash
   python manage.py migrate
