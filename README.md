@@ -17,6 +17,12 @@ Se ocorrer erro na instalação do MySqlClient verificar com instalar nesse link
 ```bash
   python manage.py migrate
 ```
+
+## Criar usuário administrador
+
+```bash
+  python manage.py createsuperuser
+```
 ## Para rodar
 
 ```bash
