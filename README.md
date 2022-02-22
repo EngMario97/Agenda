@@ -18,7 +18,7 @@ Se ocorrer erro na instalação do MySqlClient verificar com instalar nesse link
   python manage.py migrate
 ```
 
-## Criar usuário administrador
+## Para criar usuário administrador
 
 ```bash
   python manage.py createsuperuser
