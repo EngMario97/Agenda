@@ -5,11 +5,12 @@ Agenda de contatos desenvolvido durante o Curso de Python 3 do Básico Ao Avanç
 
 ## Instalação
 
-Instale Django, Pillow e PyMySQL com o pip
+Instale Django, Pillow e MySqlClient com o pip
 
 ```bash
-  pip install django pillow pymysql
+  pip install django pillow mysqlclient
 ```
+Se ocorrer erro na instalação do MySqlClient verificar com instalar nesse link: https://pypi.org/project/mysqlclient/
 
 Rode as migrações
 
